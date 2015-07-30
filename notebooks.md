@@ -1,4 +1,4 @@
-## Some notebooks 
+## Some notebooks to use with Spark
 
 	* [zeppelin](http://zeppelin-project.org/)
 	* [Jupyter](https://jupyter.org/), evolved from IPython project 
@@ -6,5 +6,5 @@
 	* [Scala notebook](https://github.com/Bridgewater/scala-notebook), based on the IPython notebook project 
 	* [Databricks cloud](https://databricks.com/product/databricks)
 
-### Source
+## Source markdown style
 	* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
