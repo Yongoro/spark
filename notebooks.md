@@ -7,5 +7,5 @@
 	* [Databricks cloud](https://databricks.com/product/databricks)
 
 ## Source markdown style
-
-	* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+	
+	* [markdown doc]: http://daringfireball.net/projects/markdown/syntax
