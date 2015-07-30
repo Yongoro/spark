@@ -5,3 +5,6 @@
 	* [Data scientist workbench of IBM](https://datascientistworkbench.com/)
 	* [Scala notebook](https://github.com/Bridgewater/scala-notebook), based on the IPython notebook project 
 	* [Databricks cloud](https://databricks.com/product/databricks)
+
+### Source
+	* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
