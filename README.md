@@ -26,7 +26,14 @@
         
         ** load environnement variable in java.sh without restarting machine **
         $source /etc/profile.d/java.sh
-    
+      
+      other method
+      
+        $vim $HOME/.bashrc
+            + add the above two exports
+        $source $HOME/.bashrc
+      
+      
     * install git
         $yum install git
         
