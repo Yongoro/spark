@@ -18,7 +18,7 @@
         
         ** script's content **
         #!/bin/bash
-        export JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.85.x86_64
+        export JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.85.x86_64/jre
         export PATH=$JAVA_HOME/bin:$PATH
         
         ** make it executable **
@@ -27,12 +27,14 @@
         ** load environnement variable in java.sh without restarting machine **
         $source /etc/profile.d/java.sh
       
+        ** test **
+        $java -version
+        
       other method
       
         $vim $HOME/.bashrc
             + add the above two exports
         $source $HOME/.bashrc
-      
       
     * install git
         $yum install git
