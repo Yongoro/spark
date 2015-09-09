@@ -1,10 +1,10 @@
 ## Some notebooks to use with Spark
 
-	* [zeppelin](http://zeppelin-project.org/)
-	* [Jupyter](https://jupyter.org/), evolved from IPython project 
-	* [Data scientist workbench of IBM](https://datascientistworkbench.com/)
-	* [Scala notebook](https://github.com/Bridgewater/scala-notebook), based on the IPython notebook project 
-	* [Databricks cloud](https://databricks.com/product/databricks)
+	  [zeppelin](http://zeppelin-project.org)
+	  [Jupyter](https://jupyter.org/), evolved from IPython project 
+	*  [Data scientist workbench of IBM](https://datascientistworkbench.com/)
+	*  [Scala notebook](https://github.com/Bridgewater/scala-notebook), based on the IPython notebook project 
+	*  [Databricks cloud](https://databricks.com/product/databricks)
 
 ## Jupyter / IPython installation (ensure you have python 2.7 ++ or 3.3 ++ installed)
 	
