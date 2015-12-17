@@ -1,6 +1,6 @@
 ## Some notebooks to use with Spark
 
-	*  [zeppelein](http://zeppelin-project.org)
+	*  [zeppelin](http://zeppelin-project.org)
 	*  [Jupyter](https://jupyter.org/), evolved from IPython project 
 	*  [Data scientist workbench of IBM](https://datascientistworkbench.com/)
 	*  [Scala notebook](https://github.com/Bridgewater/scala-notebook), based on the IPython notebook project 
