@@ -1,13 +1,13 @@
-## Getting started with spark
+#Getting started with spark
 
-# Installation of spark in standalone mode on CentOS 6.6
+##Installation of spark in standalone mode on CentOS 6.6
     * install CentOS 6.6 with Desktop version
     * download spark-1.4.1-bin-hadoop2.6.tgz (prebuild for hadoop 2.6 +) 
           $wget http://wwwftp.ciril.fr/pub/apache/spark/spark-1.4.1/spark-1.4.1-bin-hadoop2.6.tgz
     * unzip
           $tar -xvf spark-1.4.1-bin-hadoop2.6.tgz
 
-# Prerequisites
+##Prerequisites
     * install java 
         $java -version (1.7.0_85) -- version
         $sudo yum install java-1.7.0-openjdk-devel
@@ -42,6 +42,6 @@
     * download compatible scala (spark 1.4.1 --> scala 2.10.x)
     * set variable SCALA_HOME
 
-# resources
-    * https://spark.apache.org/docs/latest/
-    * https://spark.apache.org/docs/latest/spark-standalone.html
+###resources
+    [https://spark.apache.org/docs/latest/](https://spark.apache.org/docs/latest/)
+    [https://spark.apache.org/docs/latest/spark-standalone.html](https://spark.apache.org/docs/latest/spark-standalone.html)
