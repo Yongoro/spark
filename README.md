@@ -43,5 +43,5 @@
     * set variable SCALA_HOME
 
 ###resources
-    [official spark documentation](https://spark.apache.org/docs/latest/)
+    [official spark documentation](http://spark.apache.org/docs/latest/)
     [spark standalone](https://spark.apache.org/docs/latest/spark-standalone.html)
